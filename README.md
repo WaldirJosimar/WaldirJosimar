@@ -1,4 +1,4 @@
-# Hola, soy [TU NOMBRE] 👋
+# Hola, soy Waldir Barrera 👋
 
 **Desarrollador Full Stack** · Construyo webs rápidas, backends limpios y automatizaciones en Python.
 
