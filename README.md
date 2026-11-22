@@ -32,7 +32,7 @@ Estoy disponible para proyectos freelance:
 - Scripts de automatización en Python
 - Corrección de errores y mejora de código existente
 
-📩 **Fiverr:** [tu-usuario en Fiverr](https://www.fiverr.com/@wbarrerav) · ✉️ **Email:** tu-correo@ejemplo.com
+📩 **Fiverr:** [tu-usuario en Fiverr](https://www.fiverr.com/wbarrerav) · ✉️ **Email:** waldir.barrera.94@gmail.com
 
 ---
 *Siempre aprendiendo, siempre construyendo.*
